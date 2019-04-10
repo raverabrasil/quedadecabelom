@@ -1,37 +1,1547 @@
-## Welcome to GitHub Pages
+<html dir="ltr" xml:lang="pt-br" lang="pt-br" xmlns="http://www.w3.org/1999/xhtml" js=""><!--  --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8"><!--  -->
 
-You can use the [editor on GitHub](https://github.com/raverabrasil/quedadecabelom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Google Tag Manager -->
+<script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5VCXGW4"></script><script src="https://connect.facebook.net/en_US/sdk.js?hash=fa556b6dbfcc7069ee7e510a323c5a8f&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5VCXGW4"></script><script src="https://connect.facebook.net/en_US/sdk.js?hash=fa556b6dbfcc7069ee7e510a323c5a8f&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5VCXGW4"></script><script src="https://connect.facebook.net/en_US/sdk.js?hash=fa556b6dbfcc7069ee7e510a323c5a8f&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1039132/tfa.js" id="tb_tfa_script"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://connect.facebook.net/en_US/sdk.js?hash=fa556b6dbfcc7069ee7e510a323c5a8f&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5VCXGW4"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5VCXGW4');</script>
+<!-- End Google Tag Manager -->
 
-### Markdown
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1251707774932486',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    FB.AppEvents.logPageView();
 
-```markdown
-Syntax highlighted code block
+  };
 
-# Header 1
-## Header 2
-### Header 3
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.12&appId=1251707774932486&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<meta property="fb:app_id" content="1251707774932486">
 
-**Bold** and _Italic_ and `Code` text
+<link rel="shortcut icon" href="https://brasilmanchete.com/news/taboola/files/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://brasilmanchete.com/news/taboola/files/favicon.ico" type="image/x-icon">
 
-[Link](url) and ![Image](src)
-```
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+EXCLUSIVO: Cápsula com nova Fórmula promete dar Melhora Significativa na Calvície            </title>
+<link href="https://brasilmanchete.com/news/taboola/imagens/styleec92.css?v=" rel="stylesheet">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Brasil Manchete">
+<meta property="og:title" content="">
+<meta property="og:url" content="index.html">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Ravera">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<script src="https://brasilmanchete.com/news/taboola/imagens/jquery-1.11.3.min.js"></script>
+<script language="javascript">
+        var _0x4dbb = ['\x44\x6f\x6d\x69\x6e\x67\x6f', '\x53\x65\x67\x75\x6e\x64\x61', '\x54\x65\x72\u00e7\x61', '\x51\x75\x61\x72\x74\x61', '\x51\x75\x69\x6e\x74\x61', '\x53\x65\x78\x74\x61', '\x4a\x61\x6e\x65\x69\x72\x6f', '\x46\x65\x76\x65\x72\x65\x69\x72\x6f', '\x41\x62\x72\x69\x6c', '\x4d\x61\x69\x6f', '\x4a\x75\x6e\x68\x6f', '\x4a\x75\x6c\x68\x6f', '\x41\x67\x6f\x73\x74\x6f', '\x53\x65\x74\x65\x6d\x62\x72\x6f', '\x4f\x75\x74\x75\x62\x72\x6f', '\x4e\x6f\x76\x65\x6d\x62\x72\x6f', '\x67\x65\x74\x44\x61\x79', '\x73\x65\x74\x54\x69\x6d\x65', '\x67\x65\x74\x54\x69\x6d\x65', '\x67\x65\x74\x44\x61\x74\x65', '\x20\x64\x65\x20', '\x67\x65\x74\x4d\x6f\x6e\x74\x68', '\x67\x65\x74\x46\x75\x6c\x6c\x59\x65\x61\x72'];
+        var _0xb4db = function(_0x1db0de, _0x26f18d) {
+            _0x1db0de = _0x1db0de - 0x0;
+            var _0x5edbb7 = _0x4dbb[_0x1db0de];
+            return _0x5edbb7;
+        };
+        var dayNames = new Array(_0xb4db('0x0'), _0xb4db('0x1'), _0xb4db('0x2'), _0xb4db('0x3'), _0xb4db('0x4'), _0xb4db('0x5'), '\x53\u00e1\x62\x61\x64\x6f'),
+            monthNames = new Array(_0xb4db('0x6'), _0xb4db('0x7'), '\x4d\x61\x72\u00e7\x6f', _0xb4db('0x8'), _0xb4db('0x9'), _0xb4db('0xa'), _0xb4db('0xb'), _0xb4db('0xc'), _0xb4db('0xd'), _0xb4db('0xe'), _0xb4db('0xf'), '\x44\x65\x7a\x65\x6d\x62\x72\x6f'),
+            now = new Date(),
+            dayOfTheWeek = now[_0xb4db('0x10')]();
+        now[_0xb4db('0x11')](now[_0xb4db('0x12')]() - 0x0);
+        var data_final = dayNames[now[_0xb4db('0x10')]()] + '\x2c\x20' + now[_0xb4db('0x13')]() + _0xb4db('0x14') + monthNames[now[_0xb4db('0x15')]()] + _0xb4db('0x14') + now[_0xb4db('0x16')]();
+    </script>
+	
+    <meta property="fb:app_id" content="1533862011957">
+<style type="text/css">
+        #bio_ep {
+            border-width: 7px;
+            border-style: dashed;
+            border-color: rgb(225, 245, 7);
+            background-color: rgb(252, 9, 9);
+            border-radius: 10px;
+        }
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raverabrasil/quedadecabelom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        .elButton {
+            margin-right: auto;
+            margin-left: auto;
+            color: #FFF;
+            font-weight: bold;
+            display: inline-block;
+            -ms-transform: all .2s ease-in-out;
+            -webkit-transform: all .2s ease-in-out;
+            transform: all .2s ease-in-out;
+            text-align: center !important;
+            text-decoration: none !important
+        }
 
-### Support or Contact
+        .elButton:hover {
+            text-decoration: none;
+            color: inherit
+        }
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        .elButton:visited,
+        .elButton:active,
+        .elButton:hover {
+            text-decoration: none !important
+        }
+
+        .elButton {
+            padding: 13px 35px
+        }
+
+        .elButtonPadding2 {
+            padding: 9px 25px
+        }
+
+        .elButtonPadding3 {
+            padding: 19px 40px
+        }
+
+        .elButton .fa_appended {
+            margin-left: 10px
+        }
+
+        .elButton .fa_prepended {
+            margin-right: 10px
+        }
+
+        .elButtonSize5 {
+            font-size: 13px
+        }
+
+        .elButtonSize6 {
+            font-size: 16px
+        }
+
+        .elButtonSize7 {
+            font-size: 24px
+        }
+
+        .elButtonSize1 {
+            font-size: 18px
+        }
+
+        .elButtonSize2 {
+            font-size: 21px
+        }
+
+        .elButtonSize3 {
+            font-size: 27px
+        }
+
+        .elButtonSize4 {
+            font-size: 37px
+        }
+
+        .elButtonSub,
+        .elButtonSub1,
+        .elButtonSub2 {
+            display: block;
+            opacity: 0.7;
+            font-weight: normal
+        }
+
+        .elButtonSize1 .elButtonSub,
+        .elButtonSize1 .elButtonSub1,
+        .elButtonSize1 .elButtonSub2 {
+            font-size: 14px
+        }
+
+        .elButtonSize2 .elButtonSub,
+        .elButtonSize2 .elButtonSub1,
+        .elButtonSize2 .elButtonSub2 {
+            font-size: 16px
+        }
+
+        .elButtonSize3 .elButtonSub,
+        .elButtonSize3 .elButtonSub1,
+        .elButtonSize3 .elButtonSub2 {
+            font-size: 18px
+        }
+
+        .elButtonSize4 .elButtonSub {
+            font-size: 21px
+        }
+
+        .elButtonFull {
+            display: block;
+            text-align: center;
+            width: 100%
+        }
+
+        .elButtonInline {
+            display: inline-block;
+            margin-right: 25px
+        }
+
+        .elButtonRollover1:hover {
+            -ms-transform: scale(1.1);
+            -webkit-transform: scale(1.1);
+            transform: scale(1.1)
+        }
+
+        .elButtonRollover2:hover {
+            opacity: .7
+        }
+
+        .elButtonIcon1 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f061";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon2 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f063";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon3 .elButtonMain:before {
+            font-family: FontAwesome;
+
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon4 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f078";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon5 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f067";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon6 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f00c";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon7 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f14a";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon8 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f07a";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon9 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f099";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon10 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f16a";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon11 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f082";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon12 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f02d";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon13 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f073";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon14 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f133";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon15 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f1c1";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon16 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f08a";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon17 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f079";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon18 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f1cd";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon19 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f130";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon20 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f1c6";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon21 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f0f6";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon22 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f1e0";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon23 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f072";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon24 .elButtonMain:before {
+            font-family: FontAwesome;
+            content: "\f09d";
+            margin-right: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon1.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon2.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon3.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon4.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon5.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon6.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon7.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon8.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon9.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon10.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon10.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon11.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon12.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon13.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon14.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon15.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon16.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon17.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon18.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon19.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon20.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon21.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon22.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon23.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon24.elButtonRightIcon .elButtonMain:before {
+            content: '';
+            margin-right: 0
+        }
+
+        .elButtonIcon1.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f061";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon2.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f063";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon3.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f054";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon4.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f078";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon5.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f067";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon6.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f00c";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon7.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f14a";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon8.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f07a";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon9.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f099";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon10.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f16a";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon11.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f082";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon12.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f02d";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon13.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f073";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon14.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f133";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon15.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f1c1";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon16.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f08a";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon17.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f079";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon18.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f1cd";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon19.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f130";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon20.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f1c6";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon21.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f0f6";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon22.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f1e0";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon23.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f072";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonIcon24.elButtonRightIcon .elButtonMain:after {
+            font-family: FontAwesome;
+            content: "\f09d";
+            margin-left: 15px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .elButtonColor1 {
+            background-color: #0092D5
+        }
+
+        .elButtonColor1:hover {
+            background-color: #0c69a8
+        }
+
+        .elButtonColor2 {
+            background-color: #8AB743
+        }
+
+        .elButtonColor2:hover {
+            background-color: #658f2c
+        }
+
+        .elButtonColor3 {
+            background-color: #FDBE4B;
+            text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.2)
+        }
+
+        .elButtonColor3:hover {
+            background-color: #fb983b
+        }
+
+        .elButtonColor4 {
+            background-color: #EA5032
+        }
+
+        .elButtonColor4:hover {
+            background-color: #d23524
+        }
+
+        .elButtonColor5 {
+            background-color: #212121
+        }
+
+        .elButtonBottomBorder {
+            border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+            border-left: none !important;
+            border-right: none !important
+        }
+
+        .elButtonShadow1 {
+            -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+            -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2)
+        }
+
+        .elButtonShadow2 {
+            -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+            -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4)
+        }
+
+        .elButtonShadow3 {
+            -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7);
+            -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7)
+        }
+
+        .elButtonShadow4 {
+            -webkit-box-shadow: 0 8px 1px rgba(0, 0, 0, 0.1);
+            -moz-box-shadow: 0 8px 1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 8px 1px rgba(0, 0, 0, 0.1)
+        }
+
+        .elButtonShadow5 {
+            -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+            -moz-box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.2), 0 0 15px rgba(0, 0, 0, 0.2), 0 0 3px rgba(0, 0, 0, 0.4)
+        }
+
+        .elButtonShadow6 {
+            -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+            -moz-box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.4), 0 0 15px rgba(255, 255, 255, 0.2), 0 0 3px rgba(255, 255, 255, 0.4)
+        }
+
+        .elButtonGradient {
+            -webkit-box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            -moz-box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(0, 0, 0, 0.1)
+        }
+
+        .elButtonShadow1.elButtonGradient {
+            -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2), inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2), inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2), inset 0 0 0 2px rgba(255, 255, 255, 0.2)
+        }
+
+        .elButtonShadow2.elButtonGradient {
+            -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4), inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4), inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4), inset 0 0 0 2px rgba(255, 255, 255, 0.2)
+        }
+
+        .elButtonShadow3.elButtonGradient {
+            -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7), inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7), inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7), inset 0 0 0 2px rgba(255, 255, 255, 0.2)
+        }
+
+        .elButtonColor1.elButtonBorder {
+            border: 3px solid #0092D5;
+            color: #0092D5;
+            background-color: transparent !important
+        }
+
+        .elButtonColor1.elButtonBorder:hover {
+            border: 3px solid rgba(0, 0, 0, 0.15);
+            color: #FFF;
+            background-color: #0092D5 !important
+        }
+
+        .elButtonColor2.elButtonBorder {
+            border: 3px solid #8AB743;
+            color: #8AB743;
+            background-color: transparent !important
+        }
+
+        .elButtonColor2.elButtonBorder:hover {
+            border: 3px solid rgba(0, 0, 0, 0.15);
+            color: #FFF;
+            background-color: #8AB743 !important
+        }
+
+        .elButtonColor3.elButtonBorder {
+            border: 3px solid #FCCC1A;
+            color: #FCCC1A;
+            background-color: transparent !important
+        }
+
+        .elButtonColor3.elButtonBorder:hover {
+            border: 3px solid rgba(0, 0, 0, 0.15);
+            color: #FFF;
+            background-color: #FCCC1A !important
+        }
+
+        .elButtonColor4.elButtonBorder {
+            border: 3px solid #EA5032;
+            color: #EA5032;
+            background-color: transparent !important
+        }
+
+        .hsSize11 {
+            font-size: 11px
+        }
+
+        .hsSize12 {
+            font-size: 12px
+        }
+
+        .hsSize0 {
+            font-size: 14px
+        }
+
+        .hsSize1 {
+            font-size: 16px
+        }
+
+        .hsSize18 {
+            font-size: 18px
+        }
+
+        .hsSize2 {
+            font-size: 24px
+        }
+
+        .hsSize27 {
+            font-size: 27px
+        }
+
+        .hsSize3 {
+            font-size: 32px
+        }
+
+        .hsSize37 {
+            font-size: 37px
+        }
+
+        .hsSize4 {
+            font-size: 48px
+        }
+
+        .hsSize5 {
+            font-size: 62px
+        }
+
+        .hsSize72 {
+            font-size: 72px
+        }
+
+        .hsSize21 {
+            font-size: 21px
+        }
+
+        .hsSize94 {
+            font-size: 94px
+        }
+
+        .hsSize124 {
+            font-size: 124px
+        }
+
+        .lh0 {
+            line-height: .8em
+        }
+
+        .lh1 {
+            line-height: 1em
+        }
+
+        .lh2 {
+            line-height: 1.5em
+        }
+
+        .lh4 {
+            line-height: 1.3em
+        }
+
+        .lh6 {
+            line-height: 1.4em
+        }
+
+        .lh3 {
+            line-height: normal
+        }
+
+        .hsBorderBottomSolid {
+            border-bottom: 2px solid rgba(0, 0, 0, 0.1)
+        }
+
+        .hsBorderBottomDashed {
+            border-bottom: 2px dashed rgba(0, 0, 0, 0.1)
+        }
+
+        .hsBorderTopSolid {
+            border-top: 2px solid rgba(0, 0, 0, 0.1)
+        }
+
+        .hsBorderTopDashed {
+            border-top: 2px dashed rgba(0, 0, 0, 0.1)
+        }
+
+        .hsBorderSolid {
+            border-top: 2px solid rgba(0, 0, 0, 0.1);
+            border-bottom: 2px solid rgba(0, 0, 0, 0.1)
+        }
+
+        .hsBorderDashed {
+            border-top: 2px dashed rgba(0, 0, 0, 0.1);
+            border-bottom: 2px dashed rgba(0, 0, 0, 0.1)
+        }
+
+        .de5pxPadding {
+            padding: 5px
+        }
+
+        .de10pxPadding {
+            padding: 10px
+        }
+
+        .de15pxPadding {
+            padding: 15px
+        }
+
+        .de20pxPadding {
+            padding: 20px
+        }
+
+        .de25pxPadding {
+            padding: 25px
+        }
+
+        .deUppercase {
+            text-transform: uppercase
+        }
+
+        #col-left-151 {
+            float: left;
+            margin-right: 100px;
+            margin-left: 65px;
+        }
+
+        #col-right-134 {
+            float: left;
+        }
+
+        .elButtonTxtColor2 {
+            text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2)
+        }
+
+        .elButtonTxtColor3 {
+            text-shadow: -1px -1px 0px rgba(255, 255, 255, 0.1)
+        }
+
+        .elButtonTxtColor4 {
+            text-shadow: 3px 2px 1px rgba(0, 0, 0, 0.2)
+        }
+
+        .elButtonTxtColor5 {
+            text-shadow: 0 0 8px rgba(0, 0, 0, 0.8)
+        }
+
+        .elButtonSubtle {
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+            -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+            border-radius: 4px
+        }
+
+        .elButtonRounded {
+            border: 1px solid rgba(0, 0, 0, 0.13);
+            border-bottom: 4px solid rgba(0, 0, 0, 0.13);
+            box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.22);
+            border-radius: 6px
+        }
+
+        .elButtonRounded:hover {
+            box-shadow: inset 0 2px 2px 0 rgba(255, 255, 255, 0.22), 0 233px 233px 0 rgba(255, 255, 255, 0.12) inset
+        }
+
+        .elButtonPill {
+            border: 1px solid rgba(0, 0, 0, 0.13);
+            border-bottom: 3px solid rgba(0, 0, 0, 0.13);
+            box-shadow: inset 0 -1px -1px 0 rgba(0, 0, 0, 0.22);
+            border-radius: 134px
+        }
+
+        .elButtonPill:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.12) inset
+        }
+
+        .elButtonSquare {
+            border: 1px solid rgba(0, 0, 0, 0.13);
+            -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            border-radius: 0
+        }
+
+        .elButtonSquare:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.2) inset
+        }
+
+        .elButtonWhiteBorder {
+            border: 2px solid #fff;
+            -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            border-radius: 0
+        }
+
+        .elButtonWhiteBorder:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.2) inset
+        }
+
+        .elButtonBlackBorder {
+            border: 2px solid #000;
+            -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            border-radius: 0
+        }
+
+        .elButtonBlackBorder:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.2) inset
+        }
+
+        .de5pxPadding {
+            padding: 5px
+        }
+
+        .de10pxPadding {
+            padding: 10px
+        }
+
+        .de15pxPadding {
+            padding: 15px
+        }
+
+        .de20pxPadding {
+            padding: 20px
+        }
+
+        .de25pxPadding {
+            padding: 25px
+        }
+
+        .deUppercase {
+            text-transform: uppercase
+        }
+
+        #col-left-151 {
+            float: left;
+            margin-right: 100px;
+            margin-left: 65px;
+        }
+
+        #col-right-134 {
+            float: left;
+        }
+
+        .elButtonTxtColor2 {
+            text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2)
+        }
+
+        .elButtonTxtColor3 {
+            text-shadow: -1px -1px 0px rgba(255, 255, 255, 0.1)
+        }
+
+        .elButtonTxtColor4 {
+            text-shadow: 3px 2px 1px rgba(0, 0, 0, 0.2)
+        }
+
+        .elButtonTxtColor5 {
+            text-shadow: 0 0 8px rgba(0, 0, 0, 0.8)
+        }
+
+        .elButtonSubtle {
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+            -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+            border-radius: 4px
+        }
+
+        .elButtonRounded {
+            border: 1px solid rgba(0, 0, 0, 0.13);
+            border-bottom: 4px solid rgba(0, 0, 0, 0.13);
+            box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.22);
+            border-radius: 6px
+        }
+
+        .elButtonRounded:hover {
+            box-shadow: inset 0 2px 2px 0 rgba(255, 255, 255, 0.22), 0 233px 233px 0 rgba(255, 255, 255, 0.12) inset
+        }
+
+        .elButtonPill {
+            border: 1px solid rgba(0, 0, 0, 0.13);
+            border-bottom: 3px solid rgba(0, 0, 0, 0.13);
+            box-shadow: inset 0 -1px -1px 0 rgba(0, 0, 0, 0.22);
+            border-radius: 134px
+        }
+
+        .elButtonPill:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.12) inset
+        }
+
+        .elButtonSquare {
+            border: 1px solid rgba(0, 0, 0, 0.13);
+            -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            border-radius: 0
+        }
+
+        .elButtonSquare:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.2) inset
+        }
+
+        .elButtonWhiteBorder {
+            border: 2px solid #fff;
+            -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            border-radius: 0
+        }
+
+        .elButtonWhiteBorder:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.2) inset
+        }
+
+        .elButtonBlackBorder {
+            border: 2px solid #000;
+            -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+            border-radius: 0
+        }
+
+        .elButtonBlackBorder:hover {
+            box-shadow: 0 -133px 133px 0 rgba(255, 255, 255, 0.2) inset
+        }
+
+        #header-produto div.front {
+            background: #004e8b;
+            border-bottom-color: #2c6632;
+        }
+
+        #header-produto .logo,
+        #header-produto .burger b,
+        #header-produto .menu-label {
+            color: #fff !important;
+        }
+
+        #header-produto .burger b {
+            background: #fff !important;
+        }
+
+        #glb-materia .materia-titulo h1 {
+            font-family: initial;
+            font-size: 3.3em;
+        }
+
+        @media (max-width:980px) {
+            .glb-grid-4 {
+                display: none;
+            }
+            .glb-grid-8 {
+                width: 100%;
+                margin: 0;
+            }
+        }
+
+        @media (min-width:801px) {
+            /* tablet, landscape iPad, lo-res laptops ands desktops */
+            .esconde_mobile {
+                display: none;
+            }
+            .glb-grid-8,
+            .fb-comments {
+                margin: 0;
+            }
+            #header-produto div.front {
+                background: #004e8b;
+                background: #004e8b;
+                border-bottom-color: #2c6632;
+            }
+            #header-produto .logo,
+            #header-produto .burger b {
+                color: #fff !important;
+            }
+            #header-produto .burger b {
+                background: #fff !important;
+            }
+            /*#header-produto .to-right { margin-top: 27px; }*/
+            h1,
+            h2,
+            h3,
+            h4,
+            div {
+                font-family: 'Open Sans', sans-serif !important;
+            }
+            h5 {
+                font-size: 14px;
+                color: #333;
+            }
+        }
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		.butn {
+  background: #2c92d1;
+  background-image: -webkit-linear-gradient(top, #2c92d1, #329ad6);
+  background-image: -moz-linear-gradient(top, #2c92d1, #329ad6);
+  background-image: -ms-linear-gradient(top, #2c92d1, #329ad6);
+  background-image: -o-linear-gradient(top, #2c92d1, #329ad6);
+  background-image: linear-gradient(to bottom, #2c92d1, #329ad6);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 4px 0px 13px #666666;
+  -webkit-box-shadow: 5px 5px 3px #666666;
+  -moz-box-shadow: 5px 5px 3px #666666;
+  box-shadow: 5px 5px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  cursor:pointer;
+}
+		
+	.butn:active{
+	-webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+	
+	
+	
+	}
+		
+		
+		
+    </style>
+<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body>
+
+<header id="header-produto" class="header-navegacao header-editoria" data-analytics="T">
+
+</header>
+
+<span class="menu-produto"></span>
+<div class=" to-right"></div>
+
+
+
+
+
+
+<div id="glb-corpo">
+
+
+
+<div class="glb-conteudo">
+<div class="glb-bloco">
+<div class="glb-grid-8">
+<div id="glb-materia" class="hfeed hentry">
+<div class="materia-cabecalho logoadv">
+<center class="mobile"></center>
+<a target="_blank" bbr="" class="updated">
+</a></div><a target="_blank" bbr="" class="updated">
+<center><p style="font-size:15px">ADVERTORIAL<br></p></center>
+<div class="materia-titulo">
+<h1 class="entry-title" style="text-transform:capitalize"><span id="city">Cápsula com nova Fórmula promete dar Melhora Significativa na Calvície</span></h1>
+<h2>Milhares de pessoas em todo o Brasil se surpreenderam com os resultados rápidos que Ravera proporcionou.
+<br></h2>
+</div>
+
+
+</a><div class="materia-conteudo entry-content clearfix" id="materia-letra"><a target="_blank" bbr="" class="updated">
+</a><div><a target="_blank" bbr="" class="updated">
+</a><div class="foto componente_materia midia-largura-600"><a target="_blank" bbr="" class="updated">
+<img src="https://jornalatual.online/ravera/assets/img/Rav_M1.png" width="100%;height:100%"></a></center><strong>A Organização Mundial da Saúde (OMS) alerta: aproximadamente metade da população   sofrerá com algum grau desta disfunção capilar até os 50 anos de idade. Foto: Reprodução</strong></div>
+<p>A Calvície é um assunto delicado. Para  muitas pessoas, a perda de cabelo acarreta problemas de autoestima, e é capaz de desencadear dificuldades de aceitação da autoimagem e de afirmação da masculinidade. </p>
+<p>A Organização Mundial da Saúde (OMS) alerta: aproximadamente metade da população   sofrerá com algum grau desta disfunção capilar até os 50 anos de idade. Ao redor do mundo, cerca de 10% das pessoas jovens (numa faixa etária de 20 a 30 anos) já são ...</p>
+
+
+
+<a href="https://brasilmanchete.com/news/taboola/?genero=Male&utm_thumbnail=https://jornalatual.online/ravera/assets/img/Rav_M1.png"><center><button class="butn">CONTINUAR LENDO &gt;&gt;&gt; </button></center></a>
+<br>
+
+ <i></i>
+	<hr>
+
+<br><br>
+
+<br><br><br>
+
+</div>
+</div>
+
+</div>
+
+ 
+<div class="pulse">
+<div align="center">
+
+</div>
+</div>
+</div>
+
+<div class="glb-grid-4 q2w3-fixed-widget-container">
+<div class="glb-grid-4">
+
+
+<div id="rola-pagina" class="glb-grid-4 q2w3-fixed-widget-container" style="display:block">
+
+</div>
+</div>
+<div class="glb-bloco shopping-horizontal">
+<div class="glb-grid-12"></div>
+</div>
+</div>
+</div>
+</div>
+<img src="index67b4.html?utm_source=AcessoDireto&amp;utm_medium=vazio&amp;utm_campaign=vazio" width="0" height="0" class="monetizze" style="display: none">
+<div id="glb-rodape" class="widget_rodape_container">
+<div class="footer product-color" data-ga-area="footer">
+<div class="grid-12 container clearfix" data-ga-marker="links">
+<span class="pull-left logoadv">© Copyright 2018 Brasil Manchete. Aviso: Os resultados podem variar de pessoa para pessoa. Não há garantias se as recomendações no rótulo não forem seguidas à risca.</span>
+<ul class="footer-menu">
+<li class="ib middle"><a target="_blank" href="https://brasilmanchete.com/news/taboola/tabad.html" title="Artigos científicios">Artigos científicios</a></li>
+<li class="ib middle"><a target="_blank" href="https://brasilmanchete.com/news/taboola/politica.php" title="Política de Privacidade">Política de Privacidade</a></li>
+<li class="ib middle">contato@brasilmanchete.com</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="bottombar" style="display: none;">
+
+</div>
+<div id="popWindow" style="opacity: 0;">
+<p>Se encomendar agora, irá comprar o kit a preço promocional!!!</p>
+</div>
+
+
+
+
+<script src="bioep.mina45a.js?er=1&amp;pw=1&amp;ep=1" type="text/javascript"></script>
+<script src="https://brasilmanchete.com/news/taboola/popupa45a.js?er=1&amp;pw=1&amp;ep=1" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VCXGW4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+
+
+</div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","219396305464059");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=219396305464059&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">!function(d,e){var b="00081bd7ba163a4cd3fcd1c325894c5a3b";if(d.obApi){var c=function(a){return"[object Array]"===Object.prototype.toString.call(a)?a:[a]};d.obApi.marketerId=c(d.obApi.marketerId).concat(c(b))}else{var a=d.obApi=function(){a.dispatch?a.dispatch.apply(a,arguments):a.queue.push(arguments)};a.version="1.1";a.loaded=!0;a.marketerId=b;a.queue=[];b=e.createElement("script");b.async=!0;b.src="//amplify.outbrain.com/cp/obtp.js";b.type="text/javascript";c=e.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(b,c)}}(window,document);obApi("track","PAGE_VIEW");</script>
+
+<script type="text/javascript" id="">window._tfa=window._tfa||[];window._tfa.push({notify:"event",name:"page_view",id:1039132});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(document.createElement("script"),document.getElementsByTagName("script")[0],"//cdn.taboola.com/libtrc/unip/1039132/tfa.js","tb_tfa_script");</script>
+<noscript>
+  <img src="//trc.taboola.com/1039132/log/3/unip?en=page_view" width="0" height="0" style="display:none">
+</noscript>
+
+
+
+<script type="text/javascript" id="">_tfa.push({notify:"event",name:"view_content",id:1039132});</script>
+<noscript>
+    <img src="//trc.taboola.com/1039132/log/3/unip?en=view_content" width="0" height="0" style="display:none">
+</noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","628414334272975");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=628414334272975&amp;ev=PageView&amp;noscript=1"></noscript>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f3663570036fb&amp;origin=file%3A%2F%2F" style="border: none;"></iframe></div><div></div></div></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","219396305464059");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=219396305464059&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">!function(d,e){var b="00081bd7ba163a4cd3fcd1c325894c5a3b";if(d.obApi){var c=function(a){return"[object Array]"===Object.prototype.toString.call(a)?a:[a]};d.obApi.marketerId=c(d.obApi.marketerId).concat(c(b))}else{var a=d.obApi=function(){a.dispatch?a.dispatch.apply(a,arguments):a.queue.push(arguments)};a.version="1.1";a.loaded=!0;a.marketerId=b;a.queue=[];b=e.createElement("script");b.async=!0;b.src="//amplify.outbrain.com/cp/obtp.js";b.type="text/javascript";c=e.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(b,c)}}(window,document);obApi("track","PAGE_VIEW");</script>
+
+<script type="text/javascript" id="">window._tfa=window._tfa||[];window._tfa.push({notify:"event",name:"page_view",id:1039132});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(document.createElement("script"),document.getElementsByTagName("script")[0],"//cdn.taboola.com/libtrc/unip/1039132/tfa.js","tb_tfa_script");</script>
+<noscript>
+  <img src="//trc.taboola.com/1039132/log/3/unip?en=page_view" width="0" height="0" style="display:none">
+</noscript>
+
+
+
+<script type="text/javascript" id="">_tfa.push({notify:"event",name:"view_content",id:1039132});</script>
+<noscript>
+    <img src="//trc.taboola.com/1039132/log/3/unip?en=view_content" width="0" height="0" style="display:none">
+</noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","628414334272975");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=628414334272975&amp;ev=PageView&amp;noscript=1"></noscript>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f4947b7348bf5&amp;origin=file%3A%2F%2F" style="border: none;"></iframe></div><div></div></div></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=fbefc4bbeca798&amp;origin=file%3A%2F%2F" style="border: none;"></iframe></div><div></div></div></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","219396305464059");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=219396305464059&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">!function(d,e){var b="00081bd7ba163a4cd3fcd1c325894c5a3b";if(d.obApi){var c=function(a){return"[object Array]"===Object.prototype.toString.call(a)?a:[a]};d.obApi.marketerId=c(d.obApi.marketerId).concat(c(b))}else{var a=d.obApi=function(){a.dispatch?a.dispatch.apply(a,arguments):a.queue.push(arguments)};a.version="1.1";a.loaded=!0;a.marketerId=b;a.queue=[];b=e.createElement("script");b.async=!0;b.src="//amplify.outbrain.com/cp/obtp.js";b.type="text/javascript";c=e.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(b,c)}}(window,document);obApi("track","PAGE_VIEW");</script>
+
+<script type="text/javascript" id="">window._tfa=window._tfa||[];window._tfa.push({notify:"event",name:"page_view",id:1039132});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(document.createElement("script"),document.getElementsByTagName("script")[0],"//cdn.taboola.com/libtrc/unip/1039132/tfa.js","tb_tfa_script");</script>
+<noscript>
+  <img src="//trc.taboola.com/1039132/log/3/unip?en=page_view" width="0" height="0" style="display:none">
+</noscript>
+
+
+
+<script type="text/javascript" id="">_tfa.push({notify:"event",name:"view_content",id:1039132});</script>
+<noscript>
+    <img src="//trc.taboola.com/1039132/log/3/unip?en=view_content" width="0" height="0" style="display:none"> 
+</noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","628414334272975");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=628414334272975&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","219396305464059");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=219396305464059&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">!function(d,e){var b="00081bd7ba163a4cd3fcd1c325894c5a3b";if(d.obApi){var c=function(a){return"[object Array]"===Object.prototype.toString.call(a)?a:[a]};d.obApi.marketerId=c(d.obApi.marketerId).concat(c(b))}else{var a=d.obApi=function(){a.dispatch?a.dispatch.apply(a,arguments):a.queue.push(arguments)};a.version="1.1";a.loaded=!0;a.marketerId=b;a.queue=[];b=e.createElement("script");b.async=!0;b.src="//amplify.outbrain.com/cp/obtp.js";b.type="text/javascript";c=e.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(b,c)}}(window,document);obApi("track","PAGE_VIEW");</script>
+
+<script type="text/javascript" id="">window._tfa=window._tfa||[];window._tfa.push({notify:"event",name:"page_view",id:1039132});!function(a,b,d,c){document.getElementById(c)||(a.async=1,a.src=d,a.id=c,b.parentNode.insertBefore(a,b))}(document.createElement("script"),document.getElementsByTagName("script")[0],"//cdn.taboola.com/libtrc/unip/1039132/tfa.js","tb_tfa_script");</script>
+<noscript>
+  <img src="//trc.taboola.com/1039132/log/3/unip?en=page_view" width="0" height="0" style="display:none">
+</noscript>
+
+
+
+<script type="text/javascript" id="">_tfa.push({notify:"event",name:"view_content",id:1039132});</script>
+<noscript>
+    <img src="//trc.taboola.com/1039132/log/3/unip?en=view_content" width="0" height="0" style="display:none">
+</noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","628414334272975");fbq("track","PageView");fbq("track","ViewContent");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=628414334272975&amp;ev=PageView&amp;noscript=1"></noscript>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f1a4d56e42171ac&amp;origin=file%3A%2F%2F" style="border: none;"></iframe></div><div></div></div></div></body></html>
